@@ -11,6 +11,7 @@ First things first make sure to download NodeJS from this [link](https://nodejs.
 **Client:** Flutter: Please refer to the Flutter Repo for the Mobile app.
 
 **Server:** Node, Express
+
 ## Installation
 #### Clone the Repo
 ```bash
@@ -41,6 +42,15 @@ In the terminal run the command
 npm run server
  ```         
 If everything is done well, you will see that the server is running on port 3000.
+
+## Deployment/Live Demo
+I have deployed this API [railway](https://railway.app/).
+
+#### Live BaseUrl
+```
+https://colicolitodoapi-production.up.railway.app
+```
+I have wrote a [blog post](https://yassinebenkhay.com/domain-name-checker-api/) on my blog on how to deploy on railway a NodeJS API right from your github.
 
 #### BaseUrl
 ```
@@ -130,3 +140,5 @@ The status is added by default Todo.
 ## Authors
 
 - [@yassine-bennkhay](https://github.com/yassine-bennkhay)
+
+

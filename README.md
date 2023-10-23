@@ -8,7 +8,7 @@ First things first make sure to download NodeJS from this [link](https://nodejs.
 
 ## Tech Stack
 
-**Client:** Flutter: Please refer to the [Flutter Repo for the Mobile app](https://github.com/yassine-bennkhay/coli_todo_flutter).
+**Client:** Flutter: Please reffer to the [Flutter Repo for the Mobile app](https://github.com/yassine-bennkhay/coli_todo_flutter).
 
 **Server:** Node, Express
 
@@ -137,7 +137,7 @@ The status is added by default Todo.
     "id": "65366e0d6525ff5a7979059a"
 }
 ```
-## Authors
+## Author
 
 - [@yassine-bennkhay](https://github.com/yassine-bennkhay)
 

@@ -6,6 +6,11 @@ In this reference, I will give a quick documentation on how to get the NodeJS Se
 First things first make sure to download NodeJS from this [link](https://nodejs.org/en) if you don't have it already.
 
 
+## Tech Stack
+
+**Client:** Flutter: Please refer to the Flutter Repo for the Mobile app.
+
+**Server:** Node, Express
 ## Installation
 #### Clone the Repo
 ```bash
@@ -122,8 +127,6 @@ The status is added by default Todo.
     "id": "65366e0d6525ff5a7979059a"
 }
 ```
+## Authors
 
-## Author
-
-- [@yassine-bennkhay](hhttps://github.com/yassine-bennkhay)
-
+- [@yassine-bennkhay](https://github.com/yassine-bennkhay)

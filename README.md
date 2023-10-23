@@ -1,7 +1,7 @@
 
 ## API Reference
-This is a NodeJS TODO API for creating, updating, reading and deleting todos.
-In this reference, I will give a quick documentation on how to get the NodeJS Server up and running in your machine and perform the different operations.
+This is a NodeJS TODO API for creating, updating, reading, and deleting todos.
+In this reference, I will give quick documentation on how to get the NodeJS Server up and running on your machine and perform the different operations.
 
 First things first make sure to download NodeJS from this [link](https://nodejs.org/en) if you don't have it already.
 
@@ -50,7 +50,7 @@ I have deployed this API [railway](https://railway.app/).
 ```
 https://colicolitodoapi-production.up.railway.app
 ```
-I have wrote a [blog post](https://yassinebenkhay.com/domain-name-checker-api/) on my blog on how to deploy on railway a NodeJS API right from your github.
+I have wrote a [blog post](https://yassinebenkhay.com/domain-name-checker-api/) on my blog on how to deploy on railway a NodeJS API right from your GitHub.
 
 #### BaseUrl
 ```
@@ -70,7 +70,7 @@ The status is added by default Todo.
 #### Response
 ```
 {
-    "task": "to demonstrate the respone.",
+    "task": "to demonstrate the response.",
     "status": "todo",
     "_id": "65366e0d6525ff5a7979059a",
     "createdAt": "2023-10-23T12:58:53.435Z",
@@ -107,14 +107,14 @@ The status is added by default Todo.
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. The ID of the Todo you want to update. |
 | `task`      | `string` | The new value you want to update with. |
-| `status`      | `string` | The status: Todo, In Porgress, or Done. |
+| `status`      | `string` | The status: Todo, In Progress, or Done. |
 
 #### Response
 
 ```
 {
     "_id": "65366e0d6525ff5a7979059a",
-    "task": "This is an updated todo, now its in progress.",
+    "task": "This is an updated todo, now it is in progress.",
     "status": "progress",
     "createdAt": "2023-10-23T12:58:53.435Z",
     "updatedAt": "2023-10-23T13:01:05.807Z",

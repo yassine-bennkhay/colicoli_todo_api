@@ -8,7 +8,7 @@ First things first make sure to download NodeJS from this [link](https://nodejs.
 
 ## Tech Stack
 
-**Client:** Flutter: Please refer to the Flutter Repo for the Mobile app.
+**Client:** Flutter: Please refer to the [Flutter Repo for the Mobile app](https://github.com/yassine-bennkhay/coli_todo_flutter).
 
 **Server:** Node, Express
 

@@ -44,13 +44,13 @@ npm run server
 If everything is done well, you will see that the server is running on port 3000.
 
 ## Deployment/Live Demo
-I have deployed this API [railway](https://railway.app/).
+I have deployed this API on [railway](https://railway.app/).
 
 #### Live BaseUrl
 ```
 https://colicolitodoapi-production.up.railway.app
 ```
-I have wrote a [blog post](https://yassinebenkhay.com/domain-name-checker-api/) on my blog on how to deploy on railway a NodeJS API right from your GitHub.
+I have wrote a [blog post](https://yassinebenkhay.com/domain-name-checker-api/) on my blog on how to deploy on  heroku ( same as railway) a NodeJS API right from your GitHub.
 
 #### BaseUrl
 ```
